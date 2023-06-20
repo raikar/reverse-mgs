@@ -1,8 +1,8 @@
 reverse-mgs
 ================
 
-locally using docker
-remotely using kubernetes - kind
+* locally using docker
+* remotely using kubernetes - kind
 
 Deploying locally
 -----------------
